@@ -3,6 +3,10 @@ Alarm_Correlation_Detector
 
 Create a model that detect correlation between alarms
 
+Sample
+
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Alarm_Correlation_Detector/Capture.PNG)
+
 Project Organization
 ------------
 
