@@ -3,7 +3,9 @@ Clustering_LTE_Cells_Behaviors
 
  using unsupervised ML identify the same sits/cells
  that act with the same behaviors & identify the  
- reason
+ reason  to get the best configration to be applied on all sites in the same sector
+
+ ![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Alarm_Correlation_Detector/Capture.PNG)
 
 
 Project Organization
