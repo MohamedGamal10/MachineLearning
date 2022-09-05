@@ -5,7 +5,9 @@ KPI foracsting
 
 Sample
 
-![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Alarm_Correlation_Detector/Capture.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/kpi_analysis_forcasting_repo/1.PNG)
+
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/kpi_analysis_forcasting_repo/2.PNG)
 
 
 Project Organization
