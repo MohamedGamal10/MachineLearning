@@ -1,7 +1,19 @@
-DS_Challenge
+4G network performance
 ==============================
 
-AI & Analytics Data Scientist Challenge 
+Dashboard to evaluate the 4G network performance based on RSRP & Traffic Volume
+
+
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/1.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/2.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/3.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/4.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/5.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/6.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/7.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/8.PNG)
+![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Crowd%20Data%20Analysis/reports/figures/9.PNG)
+
 
 Project Organization
 ------------
