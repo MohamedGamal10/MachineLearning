@@ -5,7 +5,7 @@ Clustering_LTE_Cells_Behaviors
  that act with the same behaviors & identify the  
  reason  to get the best configration to be applied on all sites in the same sector
 
- ![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Alarm_Correlation_Detector/Capture.PNG)
+ ![alt text](https://github.com/MohamedGamal10/MachineLearning/blob/master/00%20Projects/Clustering_LTE_Sites_Cells_Behaviors_repo/Capture.PNG)
 
 
 Project Organization
